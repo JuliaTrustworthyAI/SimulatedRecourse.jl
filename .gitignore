@@ -1,0 +1,13 @@
+**/Manifest.toml
+
+data/**
+!data/*.csv
+!data/*.txt
+
+outputs/**
+!outputs/.gitkeep
+
+*.md
+!README.md
+
+.vscode
